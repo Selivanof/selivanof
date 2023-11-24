@@ -19,7 +19,7 @@ I'm an Electrical and Computer Engineering student at [Aristotle University of T
 &nbsp;
 [<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="postgres" title="PostgreSQL" height="25" />](https://www.postgresql.org/)
 &nbsp;
-[<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="c" title="C" height="25" />]([https://en.wikipedia.org/wiki/C_(programming_language)](https://www.iso.org/standard/74528.html))
+[<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="c" title="C" height="25" />](https://www.iso.org/standard/74528.html)
 &nbsp;
 [<img src="https://img.shields.io/badge/QT-00A95C?logo=qt&logoColor=white" alt="qt" title="QT" height="25" />](https://www.qt.io/)
 &nbsp;
