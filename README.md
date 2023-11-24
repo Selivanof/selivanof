@@ -21,7 +21,7 @@ I'm an Electrical and Computer Engineering student at [Aristotle University of T
 &nbsp;
 [<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="c" title="C" height="25" />](https://www.iso.org/standard/74528.html)
 &nbsp;
-[<img src="https://img.shields.io/badge/QT-00A95C?logo=qt&logoColor=white" alt="qt" title="QT" height="25" />](https://www.qt.io/)
+[<img src="https://img.shields.io/badge/Qt-00A95C?logo=qt&logoColor=white" alt="qt" title="QT" height="25" />](https://www.qt.io/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="java" title="Java" height="25" />](https://www.java.com/en/)
 &nbsp;
