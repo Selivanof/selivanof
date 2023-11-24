@@ -7,7 +7,7 @@ I'm an Electrical and Computer Engineering student at [Aristotle University of T
 ### Currently working with:
 [<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="Cpp" title="cpp" height="25" />](https://isocpp.org/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="linux" title="Linux" height="25" />](https://www.linux.org/)
+[<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="linux" title="Linux" height="25" />](https://kernel.org/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Docker-007CFF?logo=docker&logoColor=white" alt="docker" title="Docker" height="25" />](https://www.docker.com/)
 &nbsp;
