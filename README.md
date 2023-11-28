@@ -4,7 +4,7 @@ I'm an Electrical and Computer Engineering student at [Aristotle University of T
 
 ## 🛠  Technologies and Tools 
 
-### Currently working with:
+### Currently using:
 [<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="Cpp" title="cpp" height="25" />](https://isocpp.org/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="linux" title="Linux" height="25" />](https://kernel.org/)
@@ -26,7 +26,7 @@ I'm an Electrical and Computer Engineering student at [Aristotle University of T
 [<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="java" title="Java" height="25" />](https://www.java.com/en/)
 &nbsp;
 
-### Current IDE
+### Current Text Editors/IDEs
 [<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white" alt="vs" title="Visual Studio" height="25" />](https://visualstudio.microsoft.com/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" alt="vscode" title="Visual Studio Code" height="25" />](https://code.visualstudio.com/)
