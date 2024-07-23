@@ -26,12 +26,6 @@ I'm an Electrical and Computer Engineering student at [Aristotle University of T
 [<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="java" title="Java" height="25" />](https://www.java.com/en/)
 &nbsp;
 
-### Current Text Editors/IDEs
-[<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white" alt="vs" title="Visual Studio" height="25" />](https://visualstudio.microsoft.com/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" alt="vscode" title="Visual Studio Code" height="25" />](https://code.visualstudio.com/)
-&nbsp;
-
 ## 📟 Hardware used in personal projects
 
 [<img src="https://img.shields.io/badge/ESP-ED3D2D?logo=espressif&logoColor=white" alt="esp" title="ESP" height="25" />](https://www.espressif.com/)
