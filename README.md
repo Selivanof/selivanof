@@ -4,14 +4,13 @@
 - Currently studying Electrical and Computer Engineering student at [Aristotle University of Thessaloniki](https://www.auth.gr/en/).
 
 ### Technologies and Tools 
-
-[<img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" alt="python" title="Python" height="25" />](https://www.python.org/)
-&nbsp;
-[<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="postgres" title="PostgreSQL" height="25" />](https://www.postgresql.org/)
+[<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="Cpp" title="cpp" height="25" />](https://isocpp.org/)
 &nbsp;
 [<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="c" title="C" height="25" />](https://www.iso.org/standard/74528.html)
 &nbsp;
-[<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="Cpp" title="cpp" height="25" />](https://isocpp.org/)
+[<img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" alt="python" title="Python" height="25" />](https://www.python.org/)
+&nbsp;
+[<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="postgres" title="PostgreSQL" height="25" />](https://www.postgresql.org/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Docker-007CFF?logo=docker&logoColor=white" alt="docker" title="Docker" height="25" />](https://www.docker.com/)
 &nbsp;
